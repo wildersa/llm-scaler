@@ -21,7 +21,7 @@ A redução de custo analítico não comprova ganho de desempenho na GPU. A pesq
 
 ## Fronteira com o fork
 
-Esta pasta registra o escopo, referências e decisões de integração da pesquisa. Experimentos exploratórios, notebooks, dependências e dados de benchmark devem permanecer em um laboratório independente, preferencialmente em repositório próprio, para preservar o alinhamento do fork com o upstream. O endereço do laboratório será registrado aqui quando definido.
+Esta pasta registra o escopo, referências e decisões de integração da pesquisa. Experimentos exploratórios, notebooks, dependências e dados de benchmark devem permanecer em um laboratório independente, preferencialmente em repositório próprio, para preservar o alinhamento do fork com o upstream. O laboratório independente está em [wildersa/kernel-research-lab](https://github.com/wildersa/kernel-research-lab), com o [protocolo de pesquisa](https://github.com/wildersa/kernel-research-lab/blob/main/research/RESEARCH_BRIEF.md).
 
 Somente resultados validados e candidatos pertinentes ao OmniXPU devem avançar para o Kernel Workbench e para alterações versionadas dos operadores, respeitando contratos, retrocompatibilidade e os critérios de aceitação do plano mestre.
 
